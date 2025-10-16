@@ -1,5 +1,5 @@
 # Near_Infrared_Fluorophore_Design
-The model specializes in the creation of near-infrared molecules, focusing on predicting key optical properties including absorption wavelength, emission wavelength, and photoluminescent quantum yield. It leverages machine learning techniques to provide reliable predictions.
+This deep learning model helps pre-screen near-infrared candidates by estimating absorption, emission, and PLQY before experiments
 
 ## Paper
 Dual-Model Near-Infrared Fluorophores Discovery System via Knowledge Transfer
