@@ -12,8 +12,3 @@ Dual-Model Near-Infrared Fluorophores Discovery System via Knowledge Transfer
 - CUDA=11.2
 - TensorFlow=2.10
 
-## UI Download
-Baidu Drive: 
-- Link：https://pan.baidu.com/s/1Fy8BsXL-1tcP-cK2vw-5GA 
-- Password：7777
-
