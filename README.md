@@ -4,7 +4,7 @@ A dual-module deep learning system to pre-screen near-infrared (NIR) fluorophore
 ## Paper
 Dual-Model Near-Infrared Fluorophores Discovery System via Knowledge Transfer (submitted, DOI TBA)
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/c4ec3225-e513-4a7f-955c-50db08197c34" width="420" alt="overview">
+  <img src="https://github.com/user-attachments/assets/c4ec3225-e513-4a7f-955c-50db08197c34" width="300" alt="overview">
 </p>
 
 ## Requirements
