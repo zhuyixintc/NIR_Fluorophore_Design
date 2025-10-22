@@ -38,7 +38,7 @@ Near_Infrared_Fluorophore_Design/
 │  ├─ pre_train.py
 │  └─ fine_tune.py
 └─ README.md
-
+```
 ## Workflow
 - Your own data
 - python property_prediction/pre_train.py
