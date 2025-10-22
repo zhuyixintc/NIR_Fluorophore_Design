@@ -46,3 +46,7 @@ Near_Infrared_Fluorophore_Design/
 ## UI download
 - Link: https://pan.baidu.com/s/1wSw-tA-zLftS6x3AsOjS2Q
 - Password: 7777 
+
+## Acknowledgement
+This program is partially built on MG-BERT. We are grateful for their open-source codes.
+
