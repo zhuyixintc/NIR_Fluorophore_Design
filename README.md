@@ -3,6 +3,7 @@ A dual-module deep learning system to pre-screen near-infrared (NIR) fluorophore
 
 ## Paper
 Dual-Model Near-Infrared Fluorophores Discovery System via Knowledge Transfer (submitted, DOI TBA)
+<img width="716" height="554" alt="Picture1" src="https://github.com/user-attachments/assets/c4ec3225-e513-4a7f-955c-50db08197c34" />
 
 ## Requirements
 - Pyhton=3.9 
@@ -16,7 +17,7 @@ Dual-Model Near-Infrared Fluorophores Discovery System via Knowledge Transfer (s
 - conda install -c conda-forge rdkit=2022.09.5 -y
 - pip install tensorflow==2.10.* numpy pandas scikit-learn tqdm
 
-## Code Structure
+<details><summary>Code Structure</summary><pre>
 Near_Infrared_Fluorophore_Design/
 ├─ data/
 │  └─ additional_data.csv
@@ -33,7 +34,8 @@ Near_Infrared_Fluorophore_Design/
 │  │  └─ Utils.py
 │  ├─ pre_train.py
 │  └─ fine_tune.py
-└─ README
+└─ README.md
+</pre></details>
 
 ## Workflow
 - Your own data
