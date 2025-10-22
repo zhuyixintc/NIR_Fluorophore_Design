@@ -19,7 +19,8 @@ Dual-Model Near-Infrared Fluorophores Discovery System via Knowledge Transfer (s
 - conda install -c conda-forge rdkit=2022.09.5 -y
 - pip install tensorflow==2.10.* numpy pandas scikit-learn tqdm
 
-<details><summary>Code Structure</summary><pre>
+## Code Structure
+```text
 Near_Infrared_Fluorophore_Design/
 ├─ data/
 │  └─ additional_data.csv
@@ -37,7 +38,6 @@ Near_Infrared_Fluorophore_Design/
 │  ├─ pre_train.py
 │  └─ fine_tune.py
 └─ README.md
-</pre></details>
 
 ## Workflow
 - Your own data
