@@ -48,5 +48,5 @@ Near_Infrared_Fluorophore_Design/
 - Password: 7777 
 
 ## Acknowledgement
-This program is partially built on MG-BERT. We are grateful for their open-source codes.
+This work is partially built on MG-BERT and uses a subset of ChemFluor. We deeply grateful to the authors for making their code and data publicly available
 
