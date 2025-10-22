@@ -33,8 +33,7 @@ Near_Infrared_Fluorophore_Design/
 │  │  ├─ EncoderLayer.py
 │  │  ├─ ModelFinetune.py
 │  │  ├─ ModelPretrain.py
-│  │  ├─ MultiHeadAttention.py
-│  │  └─ Utils.py
+│  │  └─ MultiHeadAttention.py
 │  ├─ pre_train.py
 │  └─ fine_tune.py
 └─ README.md
