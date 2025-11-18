@@ -19,7 +19,7 @@ A dual-module deep learning system to pre-screen near-infrared (NIR) fluorophore
 
 ## Code Structure
 ```text
-Near_Infrared_Fluorophore_Design/
+NIR_Fluorophore_Design/
 ├─ data/
 │  └─ additional_data.csv
 ├─ molecular_generation/
