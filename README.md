@@ -48,5 +48,5 @@ NIR_Fluorophore_Design/
 - Password: 7777 
 
 ## Acknowledgement
-This work is partially built on MG-BERT and uses a subset of ChemFluor. We deeply grateful to the authors for making their code and data publicly available
+This work is partially built on MG-BERT and uses a subset of ChemFluor. We deeply grateful to the authors for making their code and data publicly available.
 
