@@ -1,4 +1,4 @@
-# Near_Infrared_Fluorophore_Design
+# NIR_Fluorophore_Design
 A dual-module deep learning system to pre-screen near-infrared (NIR) fluorophores—predicting absorption, emission, and PLQY before experiments, via knowledge transfer.
 
 <p align="left">
