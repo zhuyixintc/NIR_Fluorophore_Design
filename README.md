@@ -50,3 +50,4 @@ NIR_Fluorophore_Design/
 ## Acknowledgement
 This work is partially built on MG-BERT and uses a subset of ChemFluor. We deeply grateful to the authors for making their code and data publicly available.
 
+The dataset and trained models will be made available on GitHub upon publication.
