@@ -22,8 +22,6 @@ A dual-module deep learning system to pre-screen near-infrared (NIR) fluorophore
 NIR_Fluorophore_Design/
 ├─ data/
 │  └─ additional_data.csv
-├─ molecular_generation/
-│  └─ generate_molecules.py
 ├─ property_prediction/
 │  ├─ models/
 │  │  ├─ DataProcessing.py
