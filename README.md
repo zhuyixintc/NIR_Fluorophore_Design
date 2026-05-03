@@ -2,7 +2,7 @@
 A dual-module deep learning system to pre-screen near-infrared (NIR) fluorophores—predicting absorption, emission, and PLQY before experiments, via knowledge transfer.
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/c4ec3225-e513-4a7f-955c-50db08197c34" width="300" alt="overview">
+  <img width="714" height="467" alt="toc" src="https://github.com/user-attachments/assets/d3ba0c2a-d380-46b2-9463-5b2cebf5ccce" />
 </p>
 
 ## Requirements
