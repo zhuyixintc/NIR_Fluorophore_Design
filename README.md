@@ -20,18 +20,11 @@ A dual-module deep learning system to pre-screen near-infrared (NIR) fluorophore
 ## Code Structure
 ```text
 NIR_Fluorophore_Design/
-├─ data/
-│  └─ additional_data.csv
-├─ property_prediction/
-│  ├─ models/
-│  │  ├─ DataProcessing.py
-│  │  ├─ Encoder.py
-│  │  ├─ EncoderLayer.py
-│  │  ├─ ModelFinetune.py
-│  │  ├─ ModelPretrain.py
-│  │  └─ MultiHeadAttention.py
-│  ├─ pre_train.py
-│  └─ fine_tune.py
+├─ core/
+│  ├─ data_processing.py
+│  └─ model_transformer.py
+├─ fine_tune.py
+├─ pre_train.py
 └─ README.md
 ```
 ## Workflow
@@ -43,7 +36,6 @@ NIR_Fluorophore_Design/
 
 ## UI download
 - Link: https://pan.baidu.com/s/1wSw-tA-zLftS6x3AsOjS2Q
-- Password: 7777 
 
 ## Acknowledgement
 This work is partially built on MG-BERT and uses the ChemFluor as initial dataset. We deeply grateful to the authors for making their code and data publicly available.
