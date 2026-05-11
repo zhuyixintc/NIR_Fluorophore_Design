@@ -29,10 +29,8 @@ NIR_Fluorophore_Design/
 ```
 ## Workflow
 - Your own data
-- python property_prediction/pre_train.py
-- python property_prediction/fine_tune.py
-- python molecular_generation/generate_molecules.py
-- Screening
+- python pre_train.py
+- python fine_tune.py
 
 ## UI download
 - Link: https://pan.baidu.com/s/1wSw-tA-zLftS6x3AsOjS2Q
